@@ -1,7 +1,7 @@
-PA2 (USART2_TX)            DI
+PA2 (USART2_TX)  >          DI
 
-PB0               DE & RE Combined (Short Circuit)
+PB0     >          DE & RE Combined (Short Circuit)
 
-5V                        VCC
+5V            >            VCC
 
-GND                       GND
+GND             >         GND
