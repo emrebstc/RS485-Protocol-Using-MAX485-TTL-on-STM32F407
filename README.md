@@ -1,7 +1,9 @@
-PA2 (USART2_TX)  >          DI
+STM32 ------ MAX485 #1
 
-PB0     >          DE & RE Combined (Short Circuit)
+PA2 (USART2_TX)  >    DI
 
-5V            >            VCC
+PB0    >     DE & RE Combined (Short Circuit)
 
-GND             >         GND
+5V      >       VCC
+
+GND     >      GND
