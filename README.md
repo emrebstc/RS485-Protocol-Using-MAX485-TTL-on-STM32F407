@@ -8,3 +8,18 @@ PB0    >     DE & RE Combined (Short Circuit)
 5V      >       VCC
 
 GND     >      GND
+
+MAX485 #1 ------ MAX485 #2
+__________________________
+A     >     A
+
+B     >     B
+
+GND   >     GND
+
+MAX485 #2 ------ STM32
+______________________
+RO     >    PA3 (USART2_RX)
+DE & RE   >   GND
+VCC    >   5V
+GND    >   GND
